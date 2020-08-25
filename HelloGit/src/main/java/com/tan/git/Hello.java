@@ -15,5 +15,6 @@ public class Hello {
         System.out.println("更新3");
         System.out.println("创建dev分支");
         System.out.println("master添加");
+        System.out.println("dev添加");
     }
 }
