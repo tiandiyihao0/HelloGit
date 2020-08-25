@@ -8,4 +8,8 @@ package com.tan.git;
  * Time: 22:58
  */
 public class Hello {
+
+    public static void main(String[] args) {
+        System.out.println("更新1");
+    }
 }
